@@ -1,3 +1,6 @@
+//KAY FERRAZ 
+//CIENCIA DA COMPUTAÇÃO FCT UNESP - PROGRAMAÇÃO ORIENTADA A OBJETOS
+
 public class Teste_Metodo_Static {
 
 	public static void main(String[] args) {
