@@ -4,3 +4,8 @@
 
 aux=JOptionPane.showInputDialog("digite um valor"); //retorna um valor, uma string
  valor = double.parseDouble(aux); //vem o valor armazenado com uma string e armazena variavel double
+
+System.out.println("Valor num1 = "+num1);
+		System.out.println("Valor PI = "+pi);
+	 	System.out.println("Soma dos valores = "+(num1+pi));
+
